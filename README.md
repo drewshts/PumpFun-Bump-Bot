@@ -1,6 +1,8 @@
 # PumpFun-Bump-Bot
 The cheapest pumpfun bump bot in the market. Starts at 0.0001 SOL per bump, you can keep your token at the first page
 
+![pfbump](https://github.com/user-attachments/assets/5f30c6be-6f44-4c58-9c2e-7db4fa4496ae)
+
 🎉 Introducing [PFBUMP_BOT](https://t.me/pfbump_bot) / DrewBump Bot!
 
 We're thrilled to announce the launch of PFBUMP_BOT / DrewBump Bot, your ultimate solution for boosting token visibility on Pump.Fun!
