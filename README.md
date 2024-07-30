@@ -1,4 +1,4 @@
-# PumpFun-Bump-Bot
+# PumpFun Bump Bot | PumpFun Volume Bot | PumpFun VolBot
 The cheapest pumpfun bump bot in the market. Starts at 0.0001 SOL per bump, you can keep your token at the first page
 
 ![pfbump](https://github.com/user-attachments/assets/5f30c6be-6f44-4c58-9c2e-7db4fa4496ae)
