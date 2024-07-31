@@ -9,12 +9,12 @@ We're thrilled to announce the launch of PFBUMP_BOT / DrewBump Bot, your ultimat
 
 🤖 What PFBUMP_BOT / DrewBump Bot Offers:
 
-💸 Automatic Bumping: Keep your token at the top effortlessly.
-💵 Balance Check: Monitor your wallet balance in real-time.
-⏱ Customizable Intervals & Bump Amounts: Tailor your bumping strategy to your needs.
-🛑 Easy Control: Start and stop bumping with a single click.
-💱 Secure Withdrawals: Transfer funds securely anytime.
-🔗 Referral Program: Refer friends and earn 30% of their fees forever.
+💸 Automatic Bumping: Keep your token at the top effortlessly.<br>
+💵 Balance Check: Monitor your wallet balance in real-time.<br>
+⏱ Customizable Intervals & Bump Amounts: Tailor your bumping strategy to your needs.<br>
+🛑 Easy Control: Start and stop bumping with a single click.<br>
+💱 Secure Withdrawals: Transfer funds securely anytime.<br>
+🔗 Referral Program: Refer friends and earn 30% of their fees forever.<br>
 
 Whether you're a seasoned Pump.Fun dev/creator or just getting started, our bump bot is here to help you stay ahead in the game.
 
